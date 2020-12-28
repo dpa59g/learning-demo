@@ -22,7 +22,7 @@ driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 driver.manage().window().maximize();
 
 //open browser with desried URL
-driver.get("https://www.gmail.com");
+driver.get("https://www.yahoo.com");
 
 //closing the browser
 driver.close();
